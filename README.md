@@ -1,11 +1,4 @@
-<head>
-  <style>
-    .frames img{
-      padding:40px;
-}
-  </style>
-</head>
-  <body>
+
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](http://ww38.rishavchanda.io/)
 
@@ -59,4 +52,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay9369&show_icons=true&locale=en" alt="akshay9369" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay9369&" alt="akshay9369" /></p>
-</body>
+
